@@ -27,4 +27,4 @@ This project aims to simulate and predict forest fire initiation, spread, and co
 - NASA FIRMS, ISRO Bhuvan, IMD, Sentinel-2, MODIS
 
 ## Contact
-For queries, contact: [Your Name/Email] 
+For queries, contact: 13aravindrai@gmail.com 
